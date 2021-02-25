@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+
+#bg-border {
+    border: 8px solid red;
+}
+
+.ok {
+    border-radius: 1px;
+    width: 400px;
+
+}
+
+.peter {
+    border-radius: 800px;
+    width: 200px;
+}
+
+.ok2 {
+    display: flex;
+}
+
+.ok2 div {
+    width: 50%;
+}
